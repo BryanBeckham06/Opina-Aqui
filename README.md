@@ -1,4 +1,5 @@
-# Aplicativo OpineAqui!
+# 
+OpineAqui!
 
 ## Objetivo:
 O aplicativo Opine Aqui é uma plataforma intuitiva e de fácil utilização para pesquisas de opinião. Com ele, os usuários podem criar enquetes, participar de votações em enquetes já existentes e conferir os resultados. A ferramenta oferece uma maneira prática e dinâmica de compartilhar opiniões sobre diversos assuntos e interagir com outros usuários.
